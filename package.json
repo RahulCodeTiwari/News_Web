@@ -24,7 +24,7 @@
    
   "preview": "vite preview"
  
-  },
+  
  
   "dependencies": {
  
@@ -77,4 +77,4 @@
 
  "homepage": "https://RahulCodeTiwari.github.io/News_Web"
 
-
+}
